@@ -8,5 +8,3 @@ venue: 'Natural Hazards'
 paperurl: 'https://doi.org/10.1007/s11069-020-04151-0'
 citation: 'Haq, S.M.A., & Ahmed, K.J. (2020). Perceptions about climate change among university students in Bangladesh. Natural Hazards.'
 ---
-
-Recommended citation: Haq, S.M.A., & Ahmed, K.J. (2020). Perceptions about climate change among university students in Bangladesh. Natural Hazards.
