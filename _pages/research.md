@@ -51,7 +51,7 @@ Ahmed et al. 2024. *SN Social Sciences*. Comparing households' perception of cli
 
 My current work, as a postdoctoral fellow at the Smithsonian Conservation Biology Institute embedded with The Nature Conservancy's Water Funds program, asks whether protecting and restoring upstream landscapes improves health downstream. Water funds pay for conservation in a watershed, usually to secure water supply. Their health co-benefits are plausible but rarely measured.
 
-**Health co-benefits in the Upper Tana-Nairobi Water Fund.** In Kenya I am helping build the health impact pathways that link watershed restoration to human and livestock health, and the investment case for valuing those benefits. This is a TNC/SI Catalyst Research Fund project, *Understanding the Investment Case for Watershed-Derived Health Benefits*.
+**Health co-benefits in the Upper Tana-Nairobi Water Fund.** In Kenya I am helping build the health impact pathways that link watershed restoration to human and livestock health, and the investment case for valuing those benefits.
 
 **Rainfall extremes and child diarrhea.** In Bangladesh, with household survey and remote sensing data, I am studying how precipitation extremes relate to diarrheal disease among children under five over a 22-year period (in preparation).
 
